@@ -1,0 +1,5 @@
+Rencana Menbuat PortFolio
+
+- Bisa membuat portofolio berbasis HTML dan CSS
+- Bisa membuat website yang sederhana tetapi lengkap 
+- Bisa mewujudkan projek yang sebernarnya dari client kita yang nantinya bisa dimasukkan sebagai portofolio kita
